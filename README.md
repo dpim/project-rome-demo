@@ -1,5 +1,5 @@
-# Project Rome Demo
-Quick demo of React + Project Rome
+# Project Rome demo
+Quick demo web app using React and Project Rome
 
 ## About
 This is a demo web app that calls the [Project Rome APIs](https://developer.microsoft.com/en-us/graph/docs/api-reference/beta/resources/project_rome_overview) for sending context to devices. It uses the Rome *Devices API* to fetch and display signed-in devices. Then, the *Device Command API* enables sending a command to open a webpage on the selected device. Please note that there is a delay between sending the command and when the web page is opened on the selected device.
